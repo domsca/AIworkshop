@@ -1,0 +1,52 @@
+# AI Advancements in Recent Years
+
+Artificial Intelligence (AI) has rapidly evolved in the past few years, revolutionizing the way we interact with technology. In this markdown, we will explore some of the major advancements in AI from 2017 to 2023, and their impact on the world.
+
+## 2017
+
+- **Transformers**
+    - Attention is All You Need by Google
+
+![Transformer](https://miro.medium.com/max/2450/1*IbCDbe8Wp7YUvZnJhZVUdA.png)
+
+In 2017, Google released the paper "Attention is All You Need", introducing the Transformer, a neural network architecture for natural language processing. This new architecture, based on attention mechanisms, outperformed previous models on several tasks, including language translation.
+
+## 2018
+
+- **Google Assistant / Photos Maps News**
+    - Incremental improvements
+
+![Google Assistant](https://miro.medium.com/max/2000/1*yzrM-nkMIn_nRbH1hDJQ2w.jpeg)
+
+In 2018, Google made incremental improvements to its virtual assistant, Google Assistant, as well as to its Photos, Maps, and News services. These improvements included better natural language understanding, smarter recommendations, and more personalized experiences for users.
+
+## 2019
+
+- **NLP advancements**
+- **AR search results**
+- **OpenAI GPT-2**
+- **Musk exits from OpenAI / Microsoft $1Bn investment**
+
+![GPT-2](https://cdn.vox-cdn.com/thumbor/ghZV7TjTfTgD7z-eftd3TLF3c4k=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/19806813/GPT_3.png)
+
+In 2019, AI made significant strides in natural language processing (NLP) and augmented reality (AR). OpenAI released its second-generation language model, GPT-2, which could generate highly convincing text, and Google introduced AR search results, providing users with immersive experiences. Additionally, OpenAI faced controversy when Elon Musk left the organization, and Microsoft invested $1 billion in the company.
+
+## 2020
+
+- **Google AI-powered Pinterest clone**
+- **Firing of Timnit Gebru**
+- **OpenAI GPT-3**
+
+![GPT-3](https://d33wubrfki0l68.cloudfront.net/3c81d187f0676d94b6c93b6f2911bbbf834d78e7/58006/assets/images/gpt-3_2x.png)
+
+In 2020, Google launched an AI-powered Pinterest clone, enabling users to search for images using keywords. However, the company faced criticism when it fired Timnit Gebru, a prominent AI ethics researcher, over a paper highlighting the limitations and dangers of AI. Additionally, OpenAI released its third-generation language model, GPT-3, which could produce even more coherent text than its predecessor.
+
+## 2021
+
+- **Google LaMDA**
+- **OpenAI DALL-E**
+- **Exit of Anthropic from OpenAI**
+
+![DALL-E](https://miro.medium.com/max/1000/1*GcI8DPo8zJ5l5e5bB1g_UA.png)
+
+In 2021, Google announced LaMDA, a language model designed for open-domain conversation. OpenAI introduced DALL-E, an AI model capable of generating high-quality images from
