@@ -1,40 +1,30 @@
--2017
-    - LLMs
-        - Attention is All You Need bu gogole - Transformer
-- 2018
-    - Incremental improvements to Google Assistant / Photos Maps News
-- 2019
-    - NLP
-    - AR search results ecc..
-    - Open AI GPT-2
-    - Musk exists from OpenAI / Microsft 1Bn
-- 2020
-    - Google AI-powered Pinterest clone, fired Timnit Gebru AI ethics, over a paper pointing out limits and dangerous technology
-    - Open AI GPT -3
-- 2021
-    - Google: develop its own LLM, LaMDA
-    - Open AI DALL-E text to image
-    - Anthropic - member of OpenAI exit and start Anthropic
-- 2022
-    - Google: more tweaks to Assistanc, more smart displauys, more AR in maps and acquisition of Alter -ai generated profile pic
-    - Open AI DALL-E 2 and ChatGPT
-    - Google invest 400 Mn in Anthropic - 10%
-- 2023
-    - Google releases Bard
-    - Anthropic releases CLaude
-    - Microsoft invest 10 Bn in Open AI
-    - ChatGPT GPT-4, plugins
+# Agenda
 
-Legal and Societal chanlleges today
-Copyright
-    - Stability AI - Midjourney vs Getty Images
-    - nothing on LLMs
-GDPR
-    - Italy
-    - Spain
-    - Europe leads
-Defamation
-Generating stuff 
-Fear of human extinctions
+## 1. [About the Study](1.about_the_study.md)
+- Purpose and scope of the study
+- Background information on the topic
 
-Technical Challenges
+## 2. [History](history.md)
+- Historical context of the topic
+- Evolution of the field over time
+- Key figures and their contributions
+
+## 3. [Models](models.md)
+- Overview of different models used in the study
+- Advantages and disadvantages of each model
+- Results and findings of the model comparison
+
+## 4. [Neural Networks](neural_networks.md)
+- Introduction to neural networks
+- Types of neural networks used in the study
+- Comparison of neural networks with other models
+
+## 5. [Team Work](team_work.md)
+- Roles and responsibilities of team members
+- Collaboration tools and methods used
+- Challenges and solutions encountered during the project
+
+## 6. [Next Steps](next_steps.md)
+- Implications of the study's findings
+- Future research directions and recommendations
+- Conclusion and summary of the study

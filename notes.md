@@ -34,7 +34,7 @@ GDPR
     - Spain
     - Europe leads
 Defamation
-Generating stuff 
+Generating stuff by AI
 Fear of human extinctions
 
-Technical Challenges
+Technical Challenges: machine dont care
