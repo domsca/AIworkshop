@@ -37,4 +37,4 @@ Defamation
 Generating stuff by AI
 Fear of human extinctions
 
-Technical Challenges: machine dont care
+Technical Challenges: machines dont care

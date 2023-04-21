@@ -4,15 +4,14 @@
 - Purpose and scope of the study
 - Background information on the topic
 
-## 2. [History](history.md)
-- Historical context of the topic
+## 2. [History](1.history.md)
 - Evolution of the field over time
 - Key figures and their contributions
 
 ## 3. [Models](models.md)
-- Overview of different models used in the study
+- The importance of data
 - Advantages and disadvantages of each model
-- Results and findings of the model comparison
+- Neural Network - Multilayer Perceptron
 
 ## 4. [Neural Networks](neural_networks.md)
 - Introduction to neural networks
@@ -24,7 +23,6 @@
 - Collaboration tools and methods used
 - Challenges and solutions encountered during the project
 
-## 6. [Next Steps](next_steps.md)
-- Implications of the study's findings
-- Future research directions and recommendations
-- Conclusion and summary of the study
+## 6. [Next Steps](6.next_steps.md)
+- Future activities?
+- Conclusion and summary 
