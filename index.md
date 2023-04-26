@@ -18,7 +18,7 @@ The workshop will cover a range of topics, including:
 - Ethical considerations in AI
 
 ## Agenda
-### Day 1 [Let's start](agenda.md)
+### Day 1 [Let's start](agenda_.md)
 
 - [About the WS](1.about_the_study.md)
 - [History](2.history.md)
