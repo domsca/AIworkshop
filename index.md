@@ -20,14 +20,13 @@ The workshop will cover a range of topics, including:
 ## Agenda
 ### Day 1 [Let's start](agenda.md)
 
-- Introduction to AI and its applications
-- Machine learning algorithms and techniques
-- Neural networks and deep learning
-- Natural language processing and speech recognition
-- Computer vision and image recognition
-- Ethical considerations in AI
-- Q&A and group discussion
+#### 1. [About the WS](1.about_the_study.md)
+#### 2. [History](2.history.md)
+#### 3. [Models](models.md)
+#### 4. [Neural Networks](neural_networks.md)
 
+#### 5. [Team Work](team_work.md)
+#### 6. [Next Steps](6.next_steps.md)
 
 ## Sources
 
