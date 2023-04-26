@@ -1,28 +1,45 @@
-# Agenda
+## Harnessing the Power of AI
 
-## 1. [About the Study](1.about_the_study.md)
-- Purpose and scope of the study
-- Background information on the topic
+Welcome to the "Harnessing the Power of AI" workshop!
 
-## 2. [History](1.history.md)
-- Evolution of the field over time
-- Key figures and their contributions
+## About the Workshop
 
-## 3. [Models](models.md)
-- The importance of data
-- Advantages and disadvantages of each model
-- Neural Network - Multilayer Perceptron
+The "Harnessing the Power of AI" workshop aims to be an hands-on learning experience that will provide participants with a comprehensive introduction to the key concepts, techniques, and tools used in AI.
 
-## 4. [Neural Networks](neural_networks.md)
-- Introduction to neural networks
-- Types of neural networks used in the study
-- Comparison of neural networks with other models
+## Topics Covered
 
-## 5. [Team Work](team_work.md)
-- Roles and responsibilities of team members
-- Collaboration tools and methods used
-- Challenges and solutions encountered during the project
+The workshop will cover a range of topics, including:
 
-## 6. [Next Steps](6.next_steps.md)
-- Future activities?
-- Conclusion and summary 
+- AI History
+- Machine learning algorithms and techniques
+- Neural networks and deep learning *
+- Natural language processing and speech recognition *
+- Computer vision and image recognition *
+- Ethical considerations in AI
+
+## Agenda
+### Day 1
+
+- Introduction to AI and its applications
+- Machine learning algorithms and techniques
+- Neural networks and deep learning
+- Natural language processing and speech recognition
+- Computer vision and image recognition
+- Ethical considerations in AI
+- Q&A and group discussion
+
+
+## Sources
+
+In creating this workshop, I have utilized a variety of sources to gather information and inspiration. I would like to acknowledge and give credit to these sources, as their insights have been invaluable in shaping the content of this workshop. Below is a list of resources that I have referenced and used in creating the materials for this workshop.
+
+- [Google Teachable Machine](https://teachablemachine.withgoogle.com/)
+- [Tensorflow PLaygorund](https://playground.tensorflow.org/)
+- [Kaggle](https://www.kaggle.com/)
+- [Orange](https://orangedatamining.com/)
+- [ML PLayground](https://ml-playground.com/)
+- [statquest](https://www.youtube.com/@statquest)
+
+## Contact
+
+If you have any questions or feedback about the workshop or this website, please feel free to contact me at [domvsca@gmail.com]. I look forward to hearing from you
