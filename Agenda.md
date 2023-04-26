@@ -19,7 +19,7 @@
 - Comparison of neural networks with other models
 
 ## 5. [Team Work](team_work.md)
-- Roles and responsibilities of team members
+- Brainstorming: brainwriting
 - Collaboration tools and methods used
 - Challenges and solutions encountered during the project
 
