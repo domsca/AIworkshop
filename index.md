@@ -18,7 +18,7 @@ The workshop will cover a range of topics, including:
 - Ethical considerations in AI
 
 ## Agenda
-### Day 1 [Let's start](neural_networks.md)
+### Day 1 [Let's start](agenda.md)
 
 - Introduction to AI and its applications
 - Machine learning algorithms and techniques
