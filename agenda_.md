@@ -8,7 +8,7 @@
 - Evolution of the field over time
 - Key figures and their contributions
 
-## 3. [Models](models.md)
+## 3. [Models](3a.models.md)
 - The importance of data
 - Advantages and disadvantages of each model
 - Neural Network - Multilayer Perceptron
